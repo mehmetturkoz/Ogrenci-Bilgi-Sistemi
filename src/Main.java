@@ -22,5 +22,6 @@ public class Main {
         s1.addBulkExamNote(80,80,80,80,80,80);
         s1.isPass();
 
+
     }
 }
